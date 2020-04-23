@@ -15,7 +15,7 @@ self.addEventListener('install', function(event) {
         cache.addAll([
           '/',
           '/index.html',
-		  '/manifest.json',
+		'/manifest.json',
           '/src/css/app.css',
           '/src/js/app.js',
 		  '/src/images/icons/icon-72x72.png',
